@@ -1,0 +1,7 @@
+﻿  main.cpp
+main.cpp(56): warning C4101: “tn”: 未引用的局部变量
+main.cpp(57): warning C4101: “TP”: 未引用的局部变量
+  正在生成代码
+  All 22 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Miss you.vcxproj -> C:\Users\Administrator\source\repos\Miss you\Release\Missyou.exe
